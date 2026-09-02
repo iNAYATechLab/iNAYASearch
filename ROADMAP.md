@@ -1,12 +1,11 @@
-    #iNAYASearch Roadmap#
+#iNAYASearch Roadmap#
 
 iNAYASearch is an open-source web search engine developed by iNAYATechLab.
 
 This roadmap is the master development plan for the project. Development should proceed incrementally, with each phase inspected, implemented, tested, reviewed, documented, and signed off before moving to the next major phase.
 
 
-
-     **Development Workflow**
+**Development Workflow**
 
 Every major development phase follows this workflow:
 
@@ -30,8 +29,20 @@ PHASE SIGN-OFF
   ↓
 NEXT PHASE
 
+**Project Principles**
 
-   **Project Principles**
+
+স্টাইল মার্কডাউন সিনট্যাক্স (Syntax)আউটপুট
+#Heading#       Title
+##Subtitle#     বড় মাপের শিরোনাম
+**BoldText**    Bold Text
+**Italic Text** বা _Text_Text
+Strikethrough~~Text~~Text
+
+Inline Code`code`code
+Code Block```javascript ... ``` ব্যাকগ্রাউন্ডসহ কোড ব্লক
+Quote> Text ব্লকাউট টেক্সট
+Center Text<p align="center">Text</p>টেক্সট মাঝে এলাইন হবে
 
 iNAYASearch follows these core principles:
 
