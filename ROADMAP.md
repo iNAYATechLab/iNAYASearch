@@ -8,7 +8,7 @@ This roadmap is the master development plan for the project. Development should 
 
 
 
-  ##    **Development Workflow**
+     **Development Workflow**
 
 Every major development phase follows this workflow:
 
