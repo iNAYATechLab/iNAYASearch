@@ -31,13 +31,9 @@ DOCUMENT
 PHASE SIGN-OFF
   ↓
 NEXT PHASE
-
+##
 
    **Project Principles**
-
-
-
-
 
 iNAYASearch follows these core principles:
 
@@ -55,7 +51,7 @@ iNAYASearch follows these core principles:
  **Phase 0 — Governance & Engineering Foundation**
 
 - Status: In Progress
--Goals:
+- Goals:
 - Establish project documentation.
 - Establish contribution guidelines.
 - Establish security policies.
